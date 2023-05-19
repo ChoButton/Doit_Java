@@ -13,6 +13,7 @@ public class HashSetTest {
 		hashSet.add(new String("강감찬"));
 		
 		System.out.println(hashSet);
+		
 	}
 
 }
